@@ -1,17 +1,58 @@
-# explicit_implicit_animations
+# Flutter Animations Assignment
 
-A new Flutter project.
+## 📌 Overview
 
-## Getting Started
+This project demonstrates both **Explicit** and **Implicit Animations** in Flutter on a single screen with a clean horizontal UI layout.
 
-This project is a starting point for a Flutter application.
+---
+## 👥 Group Members
+- Section: BSSE-6D
+- Jagmohan Dass (2380232)
+- Saad Ahsan (2380278)
+- Abdul Wahid (2380222)
+- Muhammad Khizer (2380279)
+---
+## 🎬 Features
 
-A few resources to get you started if this is your first Flutter project:
+### 🔹 Explicit Animation
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Uses `AnimationController`
+* Implements **Fade In Logo**
+* Controlled via button
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🔹 Implicit Animation
+
+* Uses `AnimatedContainer`
+* Animates:
+
+  * Size
+  * Color
+  * Border Radius
+
+---
+
+## 🖥️ UI Design
+
+* Horizontal layout using `Row`
+* Split screen:
+
+  * Left → Explicit Animation
+  * Right → Implicit Animation
+* Clean and modern colors
+---
+
+
+## 📷 Output
+
+* Tap **Fade In Logo** → Logo appears smoothly
+* Tap **Animate Box** → Box changes size, color, and shape
+
+---
+
+## 📚 Concepts Used
+
+* AnimationController
+* Tween Animation
+* FadeTransition
+* AnimatedContainer
+* Stateful Widgets
