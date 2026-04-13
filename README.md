@@ -44,9 +44,9 @@ This project demonstrates both **Explicit** and **Implicit Animations** in Flutt
 
 ## 📷 Output
 
-* Tap **Fade In Logo** → Logo appears smoothly
-* Tap **Animate Box** → Box changes size, color, and shape
 
+
+![Home Screen](https://github.com/JagmohanJagwani/Flutter-Animations-Assignment/blob/0939ba8cb167314d9ff3e7f49cfcf0bf4e5f66bf/Desktop.png)
 ---
 
 ## 📚 Concepts Used
